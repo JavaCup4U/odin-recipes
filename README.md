@@ -1,3 +1,3 @@
-This project is about a Recipe website that will contain links to recipes.
-The creation of this project will demonstrate the skills of html and how to 
-properly structure a website. 
+# odin-recipes
+This project is about building a Recipe Website which will include a few recipe links.
+What I plan to understand after building this project is more about HTML and the proper structuring of a wepsite.
